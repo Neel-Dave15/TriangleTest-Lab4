@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitDemonstration", "NUnitDemonstration.csproj", "{0981352E-C386-4B38-A3F7-DF4D86254199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTringle", "..\TestTringle\TestTringle.csproj", "{FFE16778-E00D-421C-A50F-CBD654659BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0981352E-C386-4B38-A3F7-DF4D86254199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0981352E-C386-4B38-A3F7-DF4D86254199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0981352E-C386-4B38-A3F7-DF4D86254199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0981352E-C386-4B38-A3F7-DF4D86254199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE16778-E00D-421C-A50F-CBD654659BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE16778-E00D-421C-A50F-CBD654659BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE16778-E00D-421C-A50F-CBD654659BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE16778-E00D-421C-A50F-CBD654659BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9AE66BC-3817-4EB9-8280-44201C6B1A17}
+	EndGlobalSection
+EndGlobal
